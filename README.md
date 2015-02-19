@@ -1,6 +1,6 @@
-# JESBANG
+# JEANNIE
 
-A simple script for automating Crunchbang-theming Debian Jessie netinstall. Makes getting from headless, desktop-less debian netinstall to a stylish and lightweight #!-themed openbox desktop quick and painless. This script was mostly made from John Ruff's #! forum posts.
+Fork of the Jes/Wally script for automating Crunchbang-theming Debian Jessie netinstall. Makes getting from headless, desktop-less debian netinstall to a stylish and lightweight #!-themed openbox desktop quick and painless. This script was mostly made from John Ruff's #! forum posts and CSMR's Jesbang script.  This adds my own personal customization for a dev environment and other features I want :)
 
 
 - First, install debian netinstall with only standard system utilities. - no desktop (no Gnome, KDE, etc. under "Software selection"). You may or may not set the root password.
